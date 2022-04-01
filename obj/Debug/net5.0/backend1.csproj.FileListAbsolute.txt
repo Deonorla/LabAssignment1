@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\WellaClass\backend1\bin\Debug\net5.0\backend1.exe
+C:\Users\Dell\Documents\WellaClass\backend1\bin\Debug\net5.0\backend1.deps.json
+C:\Users\Dell\Documents\WellaClass\backend1\bin\Debug\net5.0\backend1.runtimeconfig.json
+C:\Users\Dell\Documents\WellaClass\backend1\bin\Debug\net5.0\backend1.runtimeconfig.dev.json
+C:\Users\Dell\Documents\WellaClass\backend1\bin\Debug\net5.0\backend1.dll
+C:\Users\Dell\Documents\WellaClass\backend1\bin\Debug\net5.0\ref\backend1.dll
+C:\Users\Dell\Documents\WellaClass\backend1\bin\Debug\net5.0\backend1.pdb
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.AssemblyInfo.cs
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.dll
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\ref\backend1.dll
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.pdb
+C:\Users\Dell\Documents\WellaClass\backend1\obj\Debug\net5.0\backend1.genruntimeconfig.cache
